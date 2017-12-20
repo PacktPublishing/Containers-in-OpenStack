@@ -29,7 +29,9 @@ In this book, the following software list is required:
 * OpenStack: Pike release or newer
 * VirtualBox 4.5 or newer
 * Vagrant 1.7 or newer
+
 To run the OpenStack installation in a development environment, the following minimum hardware resources are required:
+
 * A host machine with CPU hardware virtualization support
 * 8 core CPU
 * 12 GB RAM
