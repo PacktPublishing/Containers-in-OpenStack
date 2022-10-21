@@ -47,3 +47,7 @@ This folder contains code files from chapter 02. There are no codes in chapter 0
 * [Mastering OpenStack - Second Edition](https://www.packtpub.com/virtualization-and-cloud/mastering-openstack-second-edition?utm_source=github&utm_medium=repository&utm_content=9781786463982)
 
 * [OpenStack for Architects](https://www.packtpub.com/virtualization-and-cloud/openstack-architects?utm_source=github&utm_medium=repository&utm_content=9781784395100)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788394383">https://packt.link/free-ebook/9781788394383 </a> </p>
